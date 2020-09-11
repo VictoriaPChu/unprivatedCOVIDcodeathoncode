@@ -9,7 +9,7 @@
   "dependencies": {
     "axios": "^0.18.1",
     "bootstrap": "^4.4.1",
-    "http-proxy": "^1.18.0",
+    "http-proxy": "^1.18.1",
     "middleware": "^1.0.0",
     "react": "^16.5.0",
     "react-bootstrap": "^1.0.0",
