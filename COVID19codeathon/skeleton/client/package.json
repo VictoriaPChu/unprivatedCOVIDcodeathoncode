@@ -7,7 +7,7 @@
     "node": "12.2.0"
   },
   "dependencies": {
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "bootstrap": "^4.4.1",
     "http-proxy": "^1.18.0",
     "middleware": "^1.0.0",
